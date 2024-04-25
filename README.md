@@ -9,24 +9,19 @@
 
 - 💬 Ask me about **data, data and data...**
 
-- 📫 How to reach me **kolheanushree@gmail.com**
+- 📫 How to reach me **kolheanushree@gmail.com** or <a href="https://linkedin.com/in/anushreekolhe">**LinkedIn**</a>
 
 - ⚡ Fun fact **I'm a photographer and bookworm**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anushreekolhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushreekolhe" height="30" width="40" /></a>
-</p>
-
-<br><br>
+<br>
 
 <!-- Programming Languages -->
 <h4 align="left">Programming Languages:</h4>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>&emsp;
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.r-project.org/">
     <img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="R" width="40" height="40"/>
   </a>&emsp;
   
