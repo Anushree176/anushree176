@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **Bloomington Crime Dashboard**
+- 🔭 I’m currently working on **Bloomington Crime Dashboard (AWS & Tableau)**
 
 - 🌱 I’m currently learning **AWS and ArcGIS Pro**
 
