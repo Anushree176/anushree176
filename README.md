@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Anushree</h1>
+<h1 align="center">Hey 👋,  I'm Anushree</h1>
 <h3 align="center">A passionate data analyst scientist, exploring spatial data</h3>
 
 <br>
 
-- 🔭 I’m currently working on **Bloomington Crime Dashboard (AWS & Tableau)**
+- 🔭 I’m currently working on **My Spotify Dashboard (Python WebAPI & Tableau)**
+
+<!-- - 🔭 I’m currently working on **Bloomington Crime Dashboard (AWS & Tableau)** -->
 
 - 🌱 I’m currently learning **AWS and ArcGIS Pro**
 
