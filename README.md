@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋,  I'm Anushree </h1>
+<h1 align="center">Hey there 👋 &nbsp; I'm Anushree! </h1>
 <h3 align="center">A passionate data analyst / scientist, exploring spatial analysis and cloud technologies </h3>
 
 <br>
@@ -7,17 +7,17 @@
 
 <!-- - 🔭 I’m currently working on **Bloomington Crime Dashboard (AWS & Tableau)** -->
 
-- 🌱 I’m currently learning **AWS and ArcGIS Pro**
+- 🌱 I’m currently learning **Amazon Web Services(AWS) and Tableau**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Anushree176](https://github.com/Anushree176)
+- 👨‍💻 My projects are available on my Streamlit [Portfolio](https://anukolhe.streamlit.app/)
   
-- 📊 Take a look through my Tableau Dashborads at [https://public.tableau.com/app/profile/anushreekolhe](https://public.tableau.com/app/profile/anushreekolhe)
+- 📊 Take a look through my [Tableau Dashboards](https://public.tableau.com/app/profile/anushreekolhe)
 
 - 💬 Ask me about **data, data and data...**
 
 - 📫 How to reach me **kolheanushree@gmail.com** or <a href="https://linkedin.com/in/anushreekolhe">**LinkedIn**</a>
 
-- 💬 Fun fact **I'm a photographer and bookworm**
+- 💬 Fun fact **I'm a photographer 📸 and bookworm 📚**
 
 
 <!-- Programming -->
