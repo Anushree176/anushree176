@@ -13,10 +13,6 @@
   
 - 📊 Take a look through my [Tableau Dashboards](https://public.tableau.com/app/profile/anushreekolhe)
 
-- 💬 Ask me about **data, data and data...**
-
-- 📫 How to reach me **kolheanushree@gmail.com** or <a href="https://linkedin.com/in/anushreekolhe">**LinkedIn**</a>
-
 - 💬 Fun fact **I'm a photographer 📸 and bookworm 📚**
 
 
