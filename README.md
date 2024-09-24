@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋 &nbsp; I'm Anushree! </h1>
-<h3 align="center">A passionate data analyst / scientist, exploring spatial analysis and cloud technologies </h3>
+<h3 align="center">A data analyst / scientist, exploring spatial analysis and cloud technologies </h3>
 
 <br>
 
