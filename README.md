@@ -16,7 +16,7 @@
 - 💬 Fun fact **I'm a photographer 📸 and bookworm 📚**
 
 
-<!-- Programming -->
+<!-- Programming 
 <h4 align="left">Programming:</h4>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,7 +29,6 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
-<!-- AI/ML -->
 <h4 align="left">AI/ML Frameworks:</h4>
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
@@ -38,14 +37,12 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 
-<!-- Databases -->
 <h4 align="left">Databases:</h4>
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<!-- Visualization -->
 <h4 align="left">Visualization:</h4>
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -55,13 +52,11 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<!-- Cloud Services -->
-<h4 align="left">Cloud Services:</h4>
+\<h4 align="left">Cloud Services:</h4>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-<!-- GIS -->
 <h4 align="left">Geographic Information System (GIS):</h4>
 
 ![ESRI](https://img.shields.io/badge/ESRI-007ACC?style=for-the-badge&logo=esri&logoColor=white)
@@ -69,4 +64,4 @@
 
 
 
-<br><br>
+<br><br>-->
