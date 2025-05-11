@@ -3,11 +3,11 @@
 
 <br>
 
-- 🔭 I’m currently working on **My Spotify Dashboard (Python WebAPI & Tableau)**
+- 🔭 I’m currently working on **spatial data** in the insurance industry
 
 <!-- - 🔭 I’m currently working on **Bloomington Crime Dashboard (AWS & Tableau)** -->
 
-- 🌱 I’m currently learning **Amazon Web Services(AWS) and Tableau**
+- 🌱 I’m currently learning **Amazon Web Services(AWS) and Airflow**
 
 - 👨‍💻 My projects are available on my Streamlit [Portfolio](https://anukolhe.streamlit.app/)
   
